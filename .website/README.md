@@ -1,4 +1,8 @@
 ---
+genres:
+  - simulation
+  - management
+  - casual
 post: https://www.frankmitchell.org/2020/10/ddf-post-mortem
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
